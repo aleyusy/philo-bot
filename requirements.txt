@@ -1,0 +1,11 @@
+python-telegram-bot==20.8
+python-dotenv
+requests
+chromadb
+torch
+sentence-transformers
+tiktoken
+openai  # для DeepSeek API
+PyPDF2
+python-docx
+unstructured
