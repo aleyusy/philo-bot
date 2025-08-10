@@ -1,0 +1,18 @@
+# Переменные окружения
+.env
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Логи
+*.log
