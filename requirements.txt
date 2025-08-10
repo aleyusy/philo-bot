@@ -1,7 +1,4 @@
+# requirements.txt — только база
 python-telegram-bot==20.8
 python-dotenv
-chromadb
-sentence-transformers
-PyPDF2
-python-docx
-unstructured
+requests
